@@ -69,8 +69,6 @@ local f=game:GetService"TweenService"
 local g=game:GetService"LocalizationService"
 local h=game:GetService"HttpService"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebulla-Softworks/Luna-Interface/refs/heads/main/source.lua"))()
-
 local i="https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
 
 local j=loadstring(
@@ -11818,3 +11816,5 @@ return az
 end
 
 return ac
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebulla-Softworks/Luna-Interface/refs/heads/main/source.lua"))()
