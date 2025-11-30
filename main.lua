@@ -14,10 +14,6 @@
     License: MIT
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebulla-Softworks/Luna-Interface/refs/heads/main/source.lua"))()
-
-wait(2)
-
 local a a={cache={}, load=function(b)if not a.cache[b]then a.cache[b]={c=a[b]()}end return a.cache[b].c end}do function a.a()return{
 
 
@@ -72,7 +68,6 @@ local e=game:GetService"UserInputService"
 local f=game:GetService"TweenService"
 local g=game:GetService"LocalizationService"
 local h=game:GetService"HttpService"
-
 local i="https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
 
 local j=loadstring(
